@@ -1,0 +1,54 @@
+
+Title:  UpVote - Decentralized Voting Dapp
+Author: Caro
+Date:   January 2019
+Mail:   ethdapp@protonmail.com
+File:   Deployed_Addresses.txt
+
+==================================================================
+																
+Consensys Academy's 2018-2019 Developer Bootcamp Final Project  
+																
+==================================================================
+
+
+## Address on Rinkeby testnet ##
+
+
+0x56e6bfc818bee1d5c385ababa55498785b76fe48
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+## URL on Rinkeby Etherscan ##
+
+
+https://rinkeby.etherscan.io/address/0x56e6bfc818bee1d5c385ababa55498785b76fe48
+
+Solidity code has been verified with Rinkeby Etherscan -- as I am owner of contract -- so the Solidity code has been officially verified by Rinkeby Etherscan.  The exact message back from Rinkeby Etherscan was: 
+  “Contract Source Code Verified (Exact Match)”
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+## Evaluator verification of Voting smart contract is living on Rinkeby testnet ##
+
+
+An evaluator has three ways to verify that Voting smart contract is on Rinkeby, including:
+
+(1) Look over the Solidity code on your own at Etherscan URL provided above and verify it’s the same as code shown within GitHub Truffle project.  
+
+  	- Please note I wanted to avoid the use of importing OpenZeppeling libraries on Rinkeby, so I put in the  basics of these libraries in excerpt functions such as "Ownable," "Destructible," and "Pausible."  This functionality is at the top of Voting smart contract.  
+
+ 	 - Thus, smart contract can be terminated or paused on Rinkeby after the evaluation period has ended.  
+
+(2) Interact with contract from “write contract beta” tab on Rinkeby Etherscan URL (shown above) if you have spare Rinkeby ETH to play around with.  (Feel free to hit me up at ethdapp@protonmail.com if you need some spare Rinkeby ETH to play around with the Dapp.)
+
+ 	 - Just connect with Metamask on Rinkeby (you’re connected when a green dot appears next to “Write Contract”) on the “Write Contract Beta” tab.  
+
+  	- You can see the actual transaction hash of adding a proposal to the Dapp, casting a vote, etc.
+
+(3) Interact via launching Truffle console, instantiate the contract on Rinkeby testnet, etc.
+
