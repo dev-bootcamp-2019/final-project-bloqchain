@@ -139,7 +139,7 @@ If so, the simplest way to remedy the issue is to be in desired account with Met
 ## Ganache Configuration ##
 
 Since the Voting Dapp was built off of Truffle's pet-shop tutorial, it utilizes the full-fledged Ganache downloaded app that is used in that tutorial.  Please see:
-https://truffleframework.com/ganache
+https://truffleframework.com/ganache.
 
 This version of Ganache uses http://127.0.0.1:7545 as its network and port configuration.
 
