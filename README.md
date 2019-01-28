@@ -143,6 +143,8 @@ https://truffleframework.com/ganache
 
 This version of Ganache uses http://127.0.0.1:7545 as its network and port configuration.
 
+You're welcome to use Ganache-cli, but as mentioned above, it presented problems with my system as the port would sometimes require 8545 and at other times request 9545, so my preference was for Ganache-GUI, as it was always content with port 7545.
+
 
 
 ## What Do You Need to Know as an Evaluator? ##
