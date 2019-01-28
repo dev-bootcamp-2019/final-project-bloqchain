@@ -20,8 +20,11 @@ As Solidity coders, we know it's not sufficient to single-mindedly guard against
 It's also vital to architect our code in the safest way possible.  Given our code runs on the EVM (or Truffle, which simulates an EVM locally), we must design our code with the understanding that all might not go according to plan when the code is deployed.  Steps we can take to build in design robustness include:
 
   (1) Test and test again -- both utilizing Truffle and deployed onto testnets
+  
   (2) Have the code audited
+  
   (3) Use community-vetted, hardened code such as OpenZeppelin for core infrastructure / scaffolding of code architecture
+  
 
 Lastly, we must build in safeguards in code to allow contracts to "fail gracefully" in the event an unexpected vulnerability surfaces.  Then, the impact of such "learning experiences" is minimized.
 
