@@ -18,11 +18,11 @@ We're well aware of the initial inroads blockchain has made into traditional "fi
 
 However, any sector -- including voting -- can benefit from the transparent, verifiable register of transaction data that blockchain provides.  Blockchain infrastructure also requires no central supervision, thus making it resistant to fraud.  Other advantages of blockchain-based voting include:
 
-  	• A voter can verify that their vote was cast as intended, and have at hand a verifiable audit trail with a blockchain recording every transaction.  This reduces chances of voter fraud.
+ - A voter can verify that their vote was cast as intended, and have at hand a verifiable audit trail with a blockchain recording every transaction.  This reduces chances of voter fraud.
 
-  	• As blockchain provides an immutable ledger, governments / independent agencies can confirm vote results, facilitating election transparency, and also ensuring no illegitimate votes are added.
+ - As blockchain provides an immutable ledger, governments / independent agencies can confirm vote results, facilitating election transparency, and also ensuring no illegitimate votes are added.
 
-  	• Decentralized blockchain-based voting system means voting data is distributed across many servers, so it's harder to destroy or alter results by hacking a single centralized system.
+ - Decentralized blockchain-based voting system means voting data is distributed across many servers, so it's harder to destroy or alter results by hacking a single centralized system.
 
 In summary, blockchain-based voting provides the democratizing infrastructure for casting, tracking, and counting votes!
 
