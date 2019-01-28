@@ -154,7 +154,8 @@ You're welcome to use Ganache-cli, but as mentioned above, it presented problems
   * Feel free to email me at ethdapp@protonmail.com if you have any questions.
 
   * Inherent in all Truffle projects, when "Truffle compile" is run successfully, it generates a "Build" directory in the main directory.  The presence of this directory may cause unintended bugs, so the "Build" directory in main directory can be safely deleted before running:
-      $ truffle compile --all  
+  
+  	$ truffle compile --all  
 
   * Testing:  I have written a total of 7 test cases, and they all execute successfully.  However, the test cases have been broken up into 2 separate files,  They are entitled:
     - 1_voting.js
