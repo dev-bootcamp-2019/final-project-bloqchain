@@ -156,9 +156,9 @@ You're welcome to use Ganache-cli, but as mentioned above, it presented problems
   * Inherent in all Truffle projects, when "Truffle compile" is run successfully, it generates a "Build" directory in the main directory.  The presence of this directory may cause unintended bugs, so the "Build" directory in main directory can be safely deleted before running:
       $ truffle compile --all  
 
-  * Testing:  I have written a total of 7 test cases, and they all execute successfully.  However, the test cases have been broken up into 2 separate files,  They are entitled: 
-    1_voting.js
-    2_voting.js
+  * Testing:  I have written a total of 7 test cases, and they all execute successfully.  However, the test cases have been broken up into 2 separate files,  They are entitled:
+    - 1_voting.js
+    - 2_voting.js
   For some reason that Support and I have not been able to troubleshoot and resolve, if all test cases are in one file, they run into an execution glitch.  If divided into two files, all execute beautifully.  
     - Therefore, before you run "truffle test," please ensure one of files is in test directory.  
     - See that it executes fine by issuing command "truffle test."
